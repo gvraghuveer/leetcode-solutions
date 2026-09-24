@@ -1,6 +1,7 @@
-# LeetCode Practice Log
+# LeetCode Solutions
 
-G V Raghuveer | R25EF084
+**Name:** G V Raghuveer  
+**SRN:** R25EF084
 
 Personal LeetCode practice log — part of B25GE0101 portfolio
 
@@ -9,3 +10,7 @@ Personal LeetCode practice log — part of B25GE0101 portfolio
 - [Arrays & Strings](./arrays-strings/)
 - [Basic Algorithms](./basic-algorithms/)
 - [Stacks](./stacks/)
+
+## Progress
+
+See [PROGRESS.md](./PROGRESS.md) for the complete progress tracker.
